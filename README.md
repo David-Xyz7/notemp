@@ -1,3 +1,4 @@
+[ ![Heroku](https://herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ostch/ostch/tree/master)
 <h1>Kartun API - Zhirrr</h1>
 
 <h4>Data JSON yang akan didapatkan</h4>
